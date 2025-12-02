@@ -97,7 +97,7 @@ weight:
 
 # name 可以定义任意名称，只具有显示作用，即使项目运行了几天后，忽然改掉 name 也不会影响代码的正常运行
 platforms:
-  # === 综合新闻媒体类 ===
+
   - id: "toutiao"
     name: "今日头条"
   - id: "baidu"
@@ -119,7 +119,7 @@ platforms:
 
 
 
-  # === 社交/短视频/娱乐类 ===
+
   - id: "weibo"
     name: "微博"
   - id: "douyin"
@@ -133,7 +133,7 @@ platforms:
   - id: "hupu"
     name: "虎扑"
 
-  # === 科技类平台 ===
+
   - id: "ithome"
     name: "IT之家"
   - id: "juejin"
@@ -155,11 +155,9 @@ platforms:
   - id: "producthunt"
     name: "ProductHunt"
 
-  # === 其他/工具类 ===
   - id: "chongbuluo"
     name: "虫部落"
 
-   NewsNow的信息源在11月20日更新：
 
     id: "tencent-hot"
     name: "腾讯新闻 综合早报"
